@@ -20,6 +20,7 @@
     - Lentilles
     - Patates vapeur
 - Crudités
+    - Betterave rouge
     - Choux fleur mouliné
     - Avocat
     - Salade verte
@@ -40,7 +41,7 @@
     - Concombres
     - Radis
     - Radis noir
-    - pousses haricots mongo
+    - Pousses haricots mongo
 - Protéïnes
     - Oeufs durs
     - Thon
@@ -128,7 +129,7 @@
 - Raclette
 - Fondue
     - Savoyarde
-    - Bourguignone
+    - Bourguignonne
 - Poëlée montagnarde
 - Croques Monsieur
 - Salade vosgienne
@@ -139,7 +140,7 @@
     - Variante avec pâtes de riz
 - Fajitas
 - Sushis
-- Flammenkuche
+- Flammekueche
 - Nems
 - Riz cantonnais
 - Chili con carne

@@ -19,7 +19,9 @@
     - Riz
     - Lentilles
     - Patates vapeur
+    - Poix cassés
 - Crudités
+    - Asperges
     - Betterave rouge
     - Choux fleur mouliné
     - Avocat
@@ -40,7 +42,8 @@
     - Courgettes
     - Concombres
     - Radis
-    - Radis noir
+        - rouge
+        - noir
     - Pousses haricots mongo
 - Protéïnes
     - Oeufs durs
@@ -130,6 +133,7 @@
 - Fondue
     - Savoyarde
     - Bourguignonne
+- Tartiflette
 - Poëlée montagnarde
 - Croques Monsieur
 - Salade vosgienne
@@ -145,12 +149,15 @@
 - Riz cantonnais
 - Chili con carne
 - Sandwiches
+- Wraps
 - Patates 
     - noisettes
     - sautées
     - vapeur
     - frites
-- Frites de patate douce
+- Frites
+    - patate douce
+    - patate
 - Petits pois
 - Petits pois carottes
 - Haricots
@@ -158,6 +165,11 @@
     - coco
     - jaunes
     - rouges
+
+### Elodie
+
+- Choux patates saucisson
+- Nems de légumes
 
 ### Desserts
 
@@ -176,3 +188,4 @@
 - Gnocchi jambon, épinards, sauce emmental
 - Risotto au poulet
 - Risotto aux champignons et cèpes
+- Hachis parmentier de saumon

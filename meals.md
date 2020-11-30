@@ -1,9 +1,10 @@
-# Repas 7 jours
+# Repas
 
 Jour 1 :
 
 - midi :
 
+    - semoule, maïs
     - châtaignes
     - haricots verts
     - salsifis
@@ -30,7 +31,7 @@ Jour 3 :
 - midi :
 
     - tarte à la tomate || pain au thon
-    - gnocchis, nuggets 
+    - gnocchis, nuggets
 
 - soir :
 
@@ -90,3 +91,23 @@ Jour 7 :
 
     - salade vosgienne et pain au thon
     - tomates farcies et patates au four style Marie Luce
+
+Jour 8 :
+
+- midi :
+    
+    - risotto
+
+- soir :
+
+    - gratin dauphinois
+
+Jour 9 :
+
+- midi :
+
+    - saucisses lentilles
+
+- soir :
+
+    - 

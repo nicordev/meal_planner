@@ -12,3 +12,8 @@ tartiflette | + | +
 gratin dauphinois | + | +
 gratin choux fleur | + | +
 lentilles | + | +
+petits pois, salsifis | + | -
+quiche | ++ | +
+croque monsieur | ++ | +
+omelette | + | +
+poisson pané | + | +

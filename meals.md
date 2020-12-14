@@ -1,113 +1,129 @@
 # Repas
 
-Jour 1 :
+**Jour 1 :**
 
-- midi :
+midi :
 
-    - semoule, maïs
-    - châtaignes
-    - haricots verts
-    - salsifis
+- semoule, maïs
+- châtaignes
+- haricots verts
+- salsifis
 
-- soir :
+soir :
 
-    - salade de fruits
-    - riz, poix cassés, courgette, steak de légumes
+- salade de fruits
+- riz, poix cassés, courgette, steak de légumes
 
-Jour 2 :
+**Jour 2 :**
 
-- midi :
+midi :
 
-    - oeuf dur, thon, tomate, ciboulette
-    - escalopes poulet, frites (de patates douces)
+- oeuf dur, thon, tomate, ciboulette
+- escalopes poulet, frites (de patates douces)
 
-- soir :
+soir :
 
-    - nems de légumes
-    - riz cantonnais
+- nems de légumes
+- riz cantonnais
 
-Jour 3 :
+**Jour 3 :**
 
-- midi :
+midi :
 
-    - tarte à la tomate || pain au thon
-    - gnocchis, nuggets
+- tarte à la tomate || pain au thon
+- gnocchis, nuggets
 
-- soir :
+soir :
 
-    - soupe
-    - saucisses, lentilles
+- soupe
+- saucisses, lentilles
 
-Jour 4 :
+**Jour 4 :**
 
-- midi :
+midi :
 
-    - maïs, tomate, betteraves rouges
-    - patates vapeur, haricots verts, saumon
+- maïs, tomate, betteraves rouges
+- patates vapeur, haricots verts, saumon
 
-- soir :
+soir :
 
-    - tartines tapenade, tomate
-    - couscous
+- tartines tapenade, tomate
+- couscous
 
-Jour 5 :
+**Jour 5 :**
 
-- midi :
+midi :
 
-    - radis, asperges
-    - épinards, oeuf dur
+- radis, asperges
+- épinards, oeuf dur
 
-- soir :
+soir :
 
-    - salade verte
-    - gratin dauphinois || tartiflette
+- salade verte
+- gratin dauphinois || tartiflette
 
-Jour 6 :
+**Jour 6 :**
 
-- midi :
+midi :
 
-    - semoule de :
-        - choux fleur
-        - choux rouge
-    - wraps :
-        - poulet
-        - thon
-        - tomate
-        - oeuf
-        - carottes rapées
+- semoule de :
+    - choux fleur
+    - choux rouge
+- wraps :
+    - poulet
+    - thon
+    - tomate
+    - oeuf
+    - carottes rapées
 
-- soir :
+soir :
 
-    - lasagnes aux légumes || viande
+- lasagnes aux légumes || viande
 
-Jour 7 :
+**Jour 7 :**
 
-- midi :
+midi :
 
-    - carottes rapées, olives
-    - spaghettis de courgette, saumon
+- carottes rapées, olives
+- spaghettis de courgette, saumon
 
-- soir :
+soir :
 
-    - salade vosgienne et pain au thon
-    - tomates farcies et patates au four style Marie Luce
+- salade vosgienne et pain au thon
+- tomates farcies et patates au four style Marie Luce
 
-Jour 8 :
+**Jour 8 :**
 
-- midi :
+midi :
     
-    - risotto
+- risotto
 
-- soir :
+soir :
 
-    - gratin dauphinois
+- gratin dauphinois
 
-Jour 9 :
+**Jour 9 :**
 
-- midi :
+midi :
 
-    - saucisses lentilles
+- saucisses, lentilles
 
-- soir :
+soir :
 
-    - 
+- omelette, petits pois carottes
+
+**Jour 10**
+
+midi :
+- épinards, oeufs durs
+
+soir :
+- croque monsieur
+
+**Jour 11**
+
+midi :
+
+
+soir :
+- poisson, riz, patates vapeur

@@ -17,3 +17,10 @@ quiche | ++ | +
 croque monsieur | ++ | +
 omelette | + | +
 poisson pané | + | +
+galette patate | + | +
+purée patate douce et butternut | - | -
+riz, poisson, sauce tomate | + | ++
+gnocchis | +++ | +++
+soupe légumes maison | - | +++
+riz, crême, bouillon volaille | +++ | +++
+gratin patates épinards | + | -

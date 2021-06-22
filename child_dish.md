@@ -2,7 +2,7 @@
 
 plat | thomas | alexis
 -----|--------|-------
-haricots, châtaignes | + | +
+haricots, châtaignes | ++ | -
 quinoa, carottes, haricots coco | + sauf haricots coco | +
 raviolis légumes | + | +
 pommes dauphines | + | ++
@@ -24,3 +24,9 @@ gnocchis | +++ | +++
 soupe légumes maison | - | +++
 riz, crême, bouillon volaille | +++ | +++
 gratin patates épinards | + | -
+pizza maison sauce tomate crême jambon fromage | + | + |
+betteraves rouges | - | +++
+riz, maïs, thon | ++ | ++
+tomates | ++ | ++
+lentilles | ++ | ++
+tortillas nachips | ++ | ++

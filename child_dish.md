@@ -28,4 +28,6 @@ pizza maison sauce tomate crême jambon fromage | + | + |
 betteraves rouges | - | +++
 maïs | ++ | ++
 tomates | ++ | ++
+riz, maïs, thon | ++ | ++
 lentilles | ++ | ++
+tortillas nachips | ++ | ++

@@ -2,11 +2,54 @@
 
 ## Affaires
 
+rando
+- chapeau
+- bonnet
+- lunettes de soleil
+- sac à dos
+- manduka
+- écharpe
+- sacs poubelles
+- jumelles
+- boussole
+- carte
+- couteau suisse
+- mousqueton
+- poncho
+lac
 - maillot de bain
 - serviettes baignade
-- chapeau
-- lunettes de soleil
+habits
+- chaussettes
+- boxer
+- pantalon
+- short
+- t-shirt
+- polaire
+- veste
+- baskets
+- sandales
+pharmacie
 - huile de ricin
+- homéopathie
+- lithium
+- sérum physiologique
+- compresses
+- pansements
+- pince à tiques
+hygiène
+- savon
+- serviettes
+- gants de toilette
+- dentifrice
+- brosse à dents
+change
+- serviettes
+- couches Thomas, Alexis, Benjamin
+- liniment
+- cotons
+- sacs poubelles
+- papier toilette
 
 ## Ingrédients
 
@@ -70,8 +113,8 @@ Midi:
 - sandwiches vache qui rit
 
 Soir:
-- omelette
-- gnocchis
+- poulet
+- patates sautées
 
 ## Lundi 2
 
@@ -82,9 +125,17 @@ Midi:
 
 Soir:
 - omelette
-- gnocchis
+- haricots
 
 ## Mardi 3
+
+Midi:
+- fruit / compote
+- saladières
+- sandwiches vache qui rit
+
+Soir:
+- raclette
 
 ## Mercredi 4
 
